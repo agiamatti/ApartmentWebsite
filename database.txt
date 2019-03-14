@@ -1,0 +1,23 @@
+// address: max quantity of ppl: smoker accepted : pets allowed: size: location: price: features:
+
+3423 Drummond:5:no:no:4.5:Downtown:1900:Fireplace, Laundry, Indoor Parking, Balcony:
+
+4500 Peel:8:yes:no:5.5:Downtown:2900:Laundry, Indoor Parking, Balcony:
+
+2800 Cavendish:7:no:no:3.5:NDG:850:Outdoor Parking, Balcony:
+
+325 McDonald:4:no:no:4.5:NDG:950:Balcony:
+
+787 Elm:9:yes:yes:6.5:West Island:1400:Outdoor Parking:
+
+1521 Melville:2:no:yes:2.5:Lower Westmount:450:Outdoor Parking:
+
+3431 Sherbrooke:3:no:no:3.5:Lower Westmount:650:Indoor Parking:
+
+488 Edison:4:yes:yes:4.5:East Island:990:Outdoor Parking, Balcony:
+
+2178 St.Anne:1:no:yes:2.5:West Island:380:Outdoor Parking:
+
+1313 Decarie:10:yes:yes:6.5:Lower Westmount:1700:Balcony:
+
+3571 Durocher:6:yes:no:5.5:Downtown:2200:Laundry, Balcony:

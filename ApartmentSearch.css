@@ -1,0 +1,86 @@
+body {background-color: #FCFBE3;}
+h1 {color: saddlebrown;}
+h3 {
+  color: saddlebrown;
+  margin-left: 20px;
+}
+
+h4 {
+  color: saddlebrown;
+  margin-left: 20px;
+}
+
+p {
+  color: saddlebrown;
+  margin-left: 20px;
+}
+
+td.time {
+  color: saddlebrown;
+  text-align: center;
+}
+
+legend.info{color: rosybrown;}
+legend.param{color: goldenrod;}
+legend.expert{color: #e68a00;}
+
+fieldset.info{
+  border-color: brown;
+  background-color: bisque;
+  }
+
+fieldset.param{
+  border-color: darkgoldenrod;
+  background-color: #FEEAB8;
+  }
+
+fieldset.expert{
+  visibility: hidden;
+  border-color: #ff9900;
+  background-color: #ffe0b3;
+  }
+
+fieldset{
+  width: 950px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+table{
+  width: 980px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+td.login{
+  text-align: right;
+}
+
+table.footer{
+  width: 980px;
+  font-size: x-small;
+  text-align: center;
+  background-color: #e2e1cc ;
+}
+
+table.SearchTable{
+  text-align: center;
+}
+
+.location{
+  width: 200px;
+  height: 60px;
+}
+
+th.address{
+  width: 150px;
+}
+
+th.features{
+  width: 200px;
+}
+
+th.smoking{
+  width: 60px;
+}
